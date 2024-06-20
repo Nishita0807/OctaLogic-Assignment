@@ -1,0 +1,1 @@
+export { AdminstratorCourses } from "./AdminstratorCourses";

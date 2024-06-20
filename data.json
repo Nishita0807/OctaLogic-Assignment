@@ -1,0 +1,109 @@
+{
+  "overview": {
+    "totalCourses": 15,
+    "totalAmountEarned": "$5000",
+    "bestPerformingCourse": "Guitar",
+    "worstPerformingCourse": "Flute"
+  },
+  "latestEnrollments": [
+    {
+      "enrollmentNumber": 1563124,
+      "studentName": "John Doe ",
+      "courseName": "Percussion",
+      "fees": "$120",
+      "enrollmentDate": "12-08-223"
+    }
+
+  ],
+  "bestStudents": [
+    {
+      "registrationNumber": 43422,
+      "firstName": "John",
+      "lastName": "Dove",
+      "courseNumber": 3,
+      "totalFees": "$300",
+      "registrationDate": "01-6-2023"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "Classical Guitar",
+      "description": "Guitar classes for...",
+      "instructor": "Ms. Jane Doe",
+      "instrument": "Guitar",
+      "dayOfWeek": "Wednesday",
+      "numOfStudents": 26,
+      "price": "$60",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "column",
+      "description": "column",
+      "instructor": "column",
+      "instrument": "column",
+      "dayOfWeek": "column",
+      "numOfStudents": "column",
+      "price": "column",
+      "status": "Active"
+    },
+    {
+      "id":3,
+      "name": "column",
+      "description": "column",
+      "instructor": "column",
+      "instrument": "column",
+      "dayOfWeek": "column",
+      "numOfStudents": "column",
+      "price": "column",
+      "status": "Closed"
+    },
+    {
+      "id":4,
+      "name": "column",
+      "description": "column",
+      "instructor": "column",
+      "instrument": "column",
+      "dayOfWeek": "column",
+      "numOfStudents": "column",
+      "price": "column",
+      "status": "Closed"
+    },
+    {
+      "id":5,
+      "name": "column",
+      "description": "column",
+      "instructor": "column",
+      "instrument": "column",
+      "dayOfWeek": "column",
+      "numOfStudents": "column",
+      "price": "column",
+      "status": "Archived"
+    },
+    {
+      "id":6,
+      "name": "column",
+      "description": "column",
+      "instructor": "column",
+      "instrument": "column",
+      "dayOfWeek": "column",
+      "numOfStudents": "column",
+      "price": "column",
+      "status": "Archived"
+    },
+    {
+      "id":5,
+      "name": "column",
+      "description": "column",
+      "instructor": "column",
+      "instrument": "column",
+      "dayOfWeek": "column",
+      "numOfStudents": "column",
+      "price": "column",
+      "status": "Archived"
+    }
+    
+    
+  ]
+}

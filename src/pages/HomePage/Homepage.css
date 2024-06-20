@@ -1,0 +1,53 @@
+.homepage-container{
+    background-color: rgba(230, 252, 237, 1);
+
+}
+.homepage-container {
+    height: 100vh;
+ 
+   
+    padding: 80px 120px 80px 120px    ;
+  }
+  
+  .header {
+    margin-bottom: 20px;
+  }
+  
+ .text-wrapper{
+    font-size: 90px;
+ }
+  .content {
+    font-size: 22px; /* Adjust as necessary */
+    line-height: 1.5;
+    color:rgba(131, 133, 139, 1);
+  }
+ 
+  .login-link {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.login-link:hover {
+    background-color: #0056b3;
+}
+
+.author{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    position: fixed;
+    bottom: 50px;
+    font-size: 14px;
+    line-height: 32px;
+    color: rgba(131, 133, 139, 1);
+}

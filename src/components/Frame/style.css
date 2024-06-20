@@ -1,0 +1,99 @@
+
+.frame-1{
+  display: flex;
+  background-color: var(--coloursbackgroundpanel);
+align-items: center;
+justify-content: space-between;
+gap:30px;
+padding: 12px;
+border-radius: 4px;
+}
+.from-last-month{
+  color:rgba(131, 133, 139, 1);
+}
+.frame-1 .div-2 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+  
+  
+}
+
+ .div-3 {
+
+ display: flex;
+ flex-direction: row;
+ gap:12px;
+ align-items: center;
+ justify-content: center;
+}
+
+.frame .ic-baseline-people {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.frame .div-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+ .element {
+  color: var(--colourstextlightprimary);
+  font-family: var(--text-header-6-font-family);
+  font-size:22px;
+  font-style: var(--text-header-6-font-style);
+  font-weight: var(--text-header-6-font-weight);
+  letter-spacing: var(--text-header-6-letter-spacing);
+  line-height: 40px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+
+}
+
+.frame .from-last-month {
+  color: var(--colourstextlightsecondary);
+  font-family: var(--text-body-2-font-family);
+  font-size: var(--text-body-2-font-size);
+  font-style: var(--text-body-2-font-style);
+  font-weight: var(--text-body-2-font-weight);
+  letter-spacing: var(--text-body-2-letter-spacing);
+  line-height: var(--text-body-2-line-height);
+  position: relative;
+  width: fit-content;
+}
+
+.frame .div-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+  width: 100%;
+}
+
+.div-5>.text-wrapper-4 {
+color:rgba(179, 48, 134, 1) !important;
+  font-family: var(--text-body-caption-font-family);
+  font-size: 9px !important;
+  font-style: var(--text-body-caption-font-style);
+  font-weight: var(--text-body-caption-font-weight);
+  letter-spacing: var(--text-body-caption-letter-spacing);
+  line-height: var(--text-body-caption-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
